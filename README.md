@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐧InfoSec <br>☁ Cloud computing<br>
+☁ Cloud computing<br>🐧 IT Guy <br>InfoSec <br>
 
 
 ## 🌐 Socials:
