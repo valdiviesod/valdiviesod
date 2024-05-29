@@ -1,5 +1,9 @@
 # 💫 About Me:
-☁ Cloud computing<br>🐧 IT Guy <br>InfoSec <br>
+☁ Cloud computing
+<br> Linux Lover 🐧
+<br> IT Admin 
+<br>Hacking 
+<br>
 
 
 ## 🌐 Socials:
