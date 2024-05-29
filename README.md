@@ -1,6 +1,6 @@
 # 💫 About Me:
 ☁ Cloud computing
-<br> Linux Lover 🐧
+<br> 🐧 Linux Lover 
 <br> IT Admin 
 <br>Hacking 
 <br>
